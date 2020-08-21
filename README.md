@@ -5,7 +5,7 @@
 
 ## 学习地址
 
-[小傅哥-重新设计模式](https://bugstack.cn/itstack/itstack-demo-design.html)
+[小傅哥-重学设计模式](https://bugstack.cn/itstack/itstack-demo-design.html)
 
 注（小傅哥所有文章地址）：
 
